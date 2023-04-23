@@ -1,4 +1,4 @@
-# ts-express
+# ts-express-pto1
 
 A failed attemptted to use a ORM model `sequelize` in a simple todolist project.
 
